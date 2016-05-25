@@ -1,2 +1,4 @@
-# android_playing_sounds
-android basic application, playing sounds
+# Android basic application
+Build Your First Android App @ COURSERA
+
+Develop the Block 4: Playing Sounds (and Using a Switch)
